@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: DBT
+    database: test
+    schema: test_data
+    tables:
+      - name: test_data_query

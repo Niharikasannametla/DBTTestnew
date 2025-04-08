@@ -4,4 +4,4 @@
     )
 }}
 
-select * from TEST.TEST_DATA.TEST_DATA_QUERY
+select * from {{ source('DBT', 'test_data_query') }}
