@@ -1,0 +1,5 @@
+packages:
+  - git: https://github.com/Niharikasannametla/check_package.git
+    name: test_local_f
+    revision: 333e26e40608a1141ed97524b3868e50fba5c933
+sha1_hash: 655cf3f39e24f6332f17af457fdfddb02afdc710
